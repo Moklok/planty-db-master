@@ -1,0 +1,12 @@
+gentest.*
+diagnostic.log
+latest.*
+executable.e
+diff.*
+*.cg.log
+*.csv
+*.err
+*.in
+*.out
+*.perf
+
